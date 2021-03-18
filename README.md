@@ -1,5 +1,5 @@
 # Emoji
-[Infrastructure of This Emoji Bot] (https://top.gg/bot/emoji)
+(Infrastructure of This Emoji Bot) [https://top.gg/bot/emoji]
 
 
 `12.03.2021` in the history of `Deleted User 61b08a7f#0001` by [Discord] (https://discord.gg/E5vJE2trn8) started coding for and `17.03.2021` Completed on.
